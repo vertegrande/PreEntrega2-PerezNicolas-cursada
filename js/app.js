@@ -1,4 +1,3 @@
-git// Objeto para almacenar la información del usuario
     const usuario = {
       nombre: "",
       dni: 0,
